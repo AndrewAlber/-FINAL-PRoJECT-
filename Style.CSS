@@ -1,0 +1,21 @@
+.Navbar ul{
+    padding: 0px;
+     background-color: #0000ff59;
+    list-style-type: none;
+    margin:0px;
+}
+.Navbar a{color:white;
+text-decoration: none;
+padding: 15px;
+display:block;
+text-align: center;
+}
+
+ .Navbar a:hover{ background-color: rgb(121, 121, 189);
+
+
+ }
+
+  h1{text-align: center;}
+
+ 
